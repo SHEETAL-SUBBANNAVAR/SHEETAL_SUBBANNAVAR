@@ -1,10 +1,11 @@
 # 👋 Hi, I'm SHEETAL_SUBBANNAVAR
 
-🚀 **Java Full Stack Developer | MERN Stack Enthusiast | DSA Learner**
+🚀 **Java Full Stack Developer | MERN Stack | DSA & Problem Solving**
+💻 Passionate about building real-world applications and aiming for a 10–20 LPA software developer role
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 🔭 Currently working on: **Full Stack Web Development projects using MERN and Java**
 
@@ -26,7 +27,7 @@
 
 * Built using **Node.js, Express, MongoDB, EJS**
 * Implemented **CRUD operations and dynamic routing**
-* Focused on **backend and database integration**
+* Built REST APIs and handled database operations using MongoDB
 
 ### 📝 ToDo App
 
@@ -40,6 +41,15 @@
 
 ---
 
+## 🧠 DSA & Problem Solving
+
+- ✔ Solved **100+ problems on LeetCode**
+- ✔ Practicing **Arrays, Strings, Recursion, and Trees**
+- ✔ Focused on improving **time & space complexity**  
+
+🔗 LeetCode Profile: https://leetcode.com/sheetal_ssubbu
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sheetal-shripal-subbannavar-16631a322/)
@@ -47,7 +57,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
@@ -61,8 +71,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
+![Learning React Native](https://img.shields.io/badge/Learning-React%20Native-blue)
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat\&logo=nodemon\&logoColor=%BBDEAD)
@@ -70,13 +81,22 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sheetal-Subbannavar\&theme=dark\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+## 🧠 Currently Focused On
+
+* Data Structures & Algorithms (DSA)
+* REST API development using Node.js & Express
+* MongoDB database design and queries
+* Building real-world full stack projects
 
 ---
 

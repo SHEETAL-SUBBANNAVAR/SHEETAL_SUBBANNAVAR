@@ -1,6 +1,6 @@
 # SHEETAL_SUBBANNAVAR
 # 💫 About Me:
-🔭 Currently working on : Stack web development projects using HTML, CSS, JavaScript, and Java.<br><br>👯 Looking to collaborate on : Beginner-friendly web and real-world projects with good learning value.<br><br>🤝 Looking for help with : Improving DSA, backend logic, and interview preparation.<br><br>🌱 Currently learning : Java Full Stack Development and DSA fundamentals.<br><br>💬 Ask me about :  Java basics, OOP concepts, DSA, and VTU engineering life.<br><br>⚡ Fun fact : I enjoy building projects and continuously improving my coding skills 🚀
+🔭 Currently working on : Stack web development projects using MERN and Java.<br><br>👯 Looking to collaborate on : Beginner-friendly web and real-world projects with good learning value.<br><br>🤝 Looking for help with : Improving DSA, backend logic, and interview preparation.<br><br>🌱 Currently learning : Java Full Stack Development and DSA fundamentals.<br><br>💬 Ask me about :  Java basics, OOP concepts, DSA, and VTU engineering life.<br><br>⚡ Fun fact : I enjoy building projects and continuously improving my coding skills 🚀
 
 
 ## 🌐 Socials:

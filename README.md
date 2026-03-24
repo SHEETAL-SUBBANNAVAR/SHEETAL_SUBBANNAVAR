@@ -1,7 +1,7 @@
-# 👋 Hi, I'm SHEETAL_SUBBANNAVAR
+# 👋 Hi, I'm SHEETAL SUBBANNAVAR
 
 🚀 **Java Full Stack Developer | MERN Stack | DSA & Problem Solving**
-💻 Passionate about building real-world applications and aiming for a 10–20 LPA software developer role
+💻 Passionate about building real-world applications and aiming for a **10–20 LPA software developer role**
 
 ---
 
@@ -43,11 +43,12 @@
 
 ## 🧠 DSA & Problem Solving
 
-- ✔ Solved **100+ problems on LeetCode**
-- ✔ Practicing **Arrays, Strings, Recursion, and Trees**
-- ✔ Focused on improving **time & space complexity**  
+* ✔ Solved **100+ problems on LeetCode**
+* ✔ Practicing **Arrays, Strings, Recursion, and Trees**
+* ✔ Focused on improving **time & space complexity**
 
 🔗 LeetCode Profile: https://leetcode.com/sheetal_ssubbu
+
 ---
 
 ## 🌐 Socials
@@ -83,9 +84,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&count_private=true\&include_all_commits=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Sheetal-Subbannavar\&theme=dark\&hide_border=false)
+![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar\&theme=dark\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&layout=compact)
 

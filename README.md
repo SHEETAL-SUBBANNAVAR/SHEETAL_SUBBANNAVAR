@@ -25,9 +25,10 @@
 
 ### 🏨 Hotel Listing App
 
-* Built using **Node.js, Express, MongoDB, EJS**
-* Implemented **CRUD operations and dynamic routing**
-* Built REST APIs and handled database operations using MongoDB
+* Developed a full-stack web application using **Node.js, Express, MongoDB, EJS**
+* Implemented **CRUD operations with RESTful APIs**
+* Added **server-side validation (Joi) and error handling**
+* Improved user experience with dynamic routing and templates
 
 ### 📝 ToDo App
 
@@ -44,8 +45,9 @@
 ## 🧠 DSA & Problem Solving
 
 * ✔ Solved **100+ problems on LeetCode**
-* ✔ Practicing **Arrays, Strings, Recursion, and Trees**
-* ✔ Focused on improving **time & space complexity**
+* ✔ Strong in **Arrays, Strings, Recursion**
+* ✔ Learning **Trees & Graphs**
+* ✔ Focus on **optimizing time & space complexity**
 
 🔗 LeetCode Profile: https://leetcode.com/sheetal_ssubbu
 
@@ -84,14 +86,13 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&count_private=true\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar&theme=dark&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1)
 
-![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar\&theme=dark\&hide_border=false&v=2)
+![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar&theme=dark&hide_border=false&cache_seconds=1)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar&theme=dark&hide_border=false&layout=compact&cache_seconds=1)
 
 ---
-
 ## 🧠 Currently Focused On
 
 * Data Structures & Algorithms (DSA)

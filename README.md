@@ -86,7 +86,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&count_private=true\&include_all_commits=true)
 
-![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar\&theme=dark\&hide_border=false)
+![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar\&theme=dark\&hide_border=false&v=2)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar\&theme=dark\&hide_border=false\&layout=compact)
 

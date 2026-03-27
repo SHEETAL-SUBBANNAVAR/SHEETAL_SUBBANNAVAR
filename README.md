@@ -54,10 +54,9 @@
 ---
 
 ## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sheetal-shripal-subbannavar-16631a322/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sheetalssubbu@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetal-shripal-subbannavar-16631a322/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SHEETAL-SUBBANNAVAR)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheetalssubbu@gmail.com)
 ---
 
 ## 💻 Tech Stack
@@ -86,11 +85,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar&theme=dark&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar&theme=dark&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=0)
 
-![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar&theme=dark&hide_border=false&cache_seconds=1)
+![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar&theme=dark&hide_border=false&cache_seconds=0)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar&theme=dark&hide_border=false&layout=compact&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar&theme=dark&hide_border=false&layout=compact&cache_seconds=0)
 
 ---
 ## 🧠 Currently Focused On
@@ -106,4 +105,4 @@
 
 ---
 
-⭐ **Consistent effort + real projects = success 🚀**
+⭐ Consistent effort + real projects = success 🚀🔥

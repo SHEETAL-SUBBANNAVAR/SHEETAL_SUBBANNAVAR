@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SHEETAL SUBBANNAVAR
+# 👋 Hi, I'm SHEETALSUBBANNAVAR 😄
 
 🚀 **Java Full Stack Developer | MERN Stack | DSA & Problem Solving**
 💻 Passionate about building real-world applications and aiming for a **10–20 LPA software developer role**

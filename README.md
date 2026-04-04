@@ -1,6 +1,10 @@
-# 👋 Hi, I'm SHEETAL SUBBANNAVAR 😄
+<h1 align="center">Hi 👋, I'm Sheetal Subbannavar</h1>
 
-🚀 **Java Full Stack Developer | MERN Stack | DSA & Problem Solving**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Java+Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;&center=true&width=500&height=45&repeat=true">
+</p>
+
+🚀 ** MERN Stack |Java Full Stack Developer | DSA & Problem Solving**  
 💻 Passionate about building real-world applications and aiming for a **10–20 LPA software developer role**
 
 ---
@@ -19,8 +23,17 @@
 
 ⚡ Fun fact: I enjoy building projects and continuously improving my coding skills 🚀
 
----
+## ⚡ Coding in Action
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding setup">
+</p>
+
+💻 Writing clean and efficient code  
+🚀 Building real-world full stack applications  
+🧠 Continuously improving problem-solving skills  
+
+---
 ## 🚀 Featured Projects
 
 ### 🏨 Hotel Listing App

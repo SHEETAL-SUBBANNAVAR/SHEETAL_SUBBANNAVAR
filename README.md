@@ -4,8 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Java+Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;&center=true&width=500&height=45&repeat=true">
 </p>
 
-🚀 ** MERN Stack |Java Full Stack Developer | DSA & Problem Solving**  
-💻 Passionate about building real-world applications and aiming for a **10–20 LPA software developer role**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sheetal-Subbannavar&color=blue" />
+  <img src="https://img.shields.io/badge/DSA-100%2B%20Solved-brightgreen" />
+  <img src="https://img.shields.io/badge/GitHub-200%2B%20Contributions-blue" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange" />
+  <img src="https://img.shields.io/badge/Hackathon-2nd%20Place%20DBIT-yellow" />
+</p>
+
+🚀  MERN Stack | Java Full Stack Developer | DSA & Problem Solving  
+💻 Passionate about building real-world applications and aiming for a **software developer role**
 
 ---
 
@@ -23,6 +31,63 @@
 
 ⚡ Fun fact: I enjoy building projects and continuously improving my coding skills 🚀
 
+---
+
+## 🎯 Career Objective
+
+Aspiring Full Stack Developer aiming to build scalable, high-performance applications and secure a challenging software developer role in a growth-oriented company.
+
+---
+
+## 💪 Core Strengths
+
+- Strong problem solving skills (100+ DSA problems solved)
+- 200+ contributions on GitHub with consistent activity
+- Backend development & REST API design
+- Clean, maintainable, and scalable code practices
+- Quick learner with consistent improvement mindset
+
+---
+
+## 💼 Experience
+
+### Web Developer Intern
+📅 March 2026 – April 2026  
+- Worked on real-world web development tasks using MERN stack  
+- Built and improved backend APIs for better performance  
+- Collaborated on project features and debugging  
+- Enhanced application efficiency and user experience  
+
+---
+
+## 🏅 Hackathons
+
+### 🥈 Hack The Front - DBIT
+- Secured 2nd place as an individual participant  
+- Developed a responsive and user-friendly frontend solution  
+- Demonstrated strong UI/UX and problem-solving skills  
+
+---
+
+## 🏆 Achievements
+
+- 🥈 Secured **2nd Place (Individual)** in *Hack The Front* event at DBIT (Frontend Hackathon)
+- Solved 100+ DSA problems on LeetCode  
+- 200+ contributions on GitHub  
+- Built multiple full stack projects independently  
+- Consistently improving coding and problem-solving skills  
+
+---
+
+## 🛠 Tools & Platforms
+
+- Git & GitHub  
+- Postman (API Testing)  
+- VS Code  
+- MongoDB Atlas  
+
+---
+
 ## ⚡ Coding in Action
 
 <p align="center">
@@ -34,6 +99,7 @@
 🧠 Continuously improving problem-solving skills  
 
 ---
+
 ## 🚀 Featured Projects
 
 ### 🏨 Hotel Listing App
@@ -42,6 +108,8 @@
 * Implemented **secure CRUD operations with RESTful APIs**
 * Added **server-side validation (Joi) and error handling**
 * Improved user experience with dynamic routing and templates
+* Optimized database queries to improve performance
+* Designed scalable backend structure for handling multiple users
 
 ### 🏦 Bank Management System
 
@@ -104,7 +172,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar&theme=dark&hide_border=false&layout=compact)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sheetal-Subbannavar&theme=react-dark)
+
+
 ---
+## 📈 GitHub Activity
+
+- 🔥 200+ contributions in the last year
+- 🚀 Active in building and improving real-world projects
+- 💻 Regular commits showing consistency and discipline
 
 ## 🧠 Currently Focused On
 

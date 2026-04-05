@@ -195,4 +195,4 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 ---
 
 ⭐ Consistent effort + real projects = success 🚀
-🔥![Snake animation](https://github.com/Sheetal-Subbannavar/Sheetal-Subbannavar/blob/output/github-contribution-grid-snake.svg)
+

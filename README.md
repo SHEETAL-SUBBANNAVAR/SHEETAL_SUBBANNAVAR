@@ -163,19 +163,18 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
+## 📊 GitHub Stats 
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sheetal-Subbannavar&theme=github-dark&hide_border=true" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Sheetal-Subbannavar&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
+## 📈 Contribution Graph
 
-![](https://streak-stats.demolab.com?user=Sheetal-Subbannavar&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheetal-Subbannavar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&height=320" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheetal-Subbannavar&theme=dark&hide_border=false&layout=compact)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sheetal-Subbannavar&theme=react-dark)
-
-
----
 ## 📈 GitHub Activity
 
 - 🔥 200+ contributions in the last year
@@ -195,4 +194,5 @@ Aspiring Full Stack Developer aiming to build scalable, high-performance applica
 
 ---
 
-⭐ Consistent effort + real projects = success 🚀🔥
+⭐ Consistent effort + real projects = success 🚀
+🔥![Snake animation](https://github.com/Sheetal-Subbannavar/Sheetal-Subbannavar/blob/output/github-contribution-grid-snake.svg)
